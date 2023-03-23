@@ -1,4 +1,5 @@
 
+Check this youtube video for the full tutorial and demo: https://www.youtube.com/watch?v=NGlfGRpkd0Q
 
 ## Get Started
 
