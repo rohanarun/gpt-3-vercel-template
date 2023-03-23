@@ -46,3 +46,9 @@ You can edit the example file located in the root directory of this project name
 2) Create a new .html file in the /public directory, like test.html. Open the HTML file Cheat Layer downloads and copy/paste the HTML from that. 
 3) Click commit changes, and wait on vercel dashboard for the auto-deploy to test the new version!
 
+
+### Embedd the wiget
+1) Take the URL of the widget, and put it inside this code:
+```
+<iframe src="WIDGET_URL" width="100%"></iframe>
+```
