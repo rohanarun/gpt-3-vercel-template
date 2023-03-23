@@ -2,11 +2,13 @@
 
 ## Get Started
 
-1. Fork this repository to your own GitHub account.
-2. Log in to your [Vercel](https://vercel.com) console to create a new project from the forked repository. ( ℹ️ Don't click the Deploy button at this moment)
-3. [Setting up Environment Variables](#setting-up-environment-variables) in the Configure Project Step.
-4. Deploy your application and give Vercel a moment to complete the deployment process.
-5. Visit your web app in your web browser, and share it to your friends. 🥳
+1) Click use this template, and create a repository.
+2) Setup a new project in vercel, and import this repo.
+3) Set up environment variables by copying the variables below and editing them.
+4) Deploy your application and give Vercel a moment to complete the deployment process.
+5) Visit your web app in your web browser, and share it to your friends. 🥳
+6) Paste in new custom widgets in the public directory as .html files.
+6) Use Project Atlas to generate new custom UI designs, and paste them into the public directory for instant deploys.🥳
 
 ## Setting up Environment Variables
 
