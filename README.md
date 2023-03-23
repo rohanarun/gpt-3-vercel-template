@@ -16,24 +16,24 @@ You can customize your application by using environment variables. Here are all 
 # Client side
 
 # The app logo url.
-APP_LOGO="https://avatars.githubusercontent.com/u/38027416?v=4"
+APP_LOGO=""
 # The name of the app.
-APP_NAME="Oh My Polisher"
+APP_NAME=""
 # Summary your app's behavoir and show the users how to use it.
-APP_SUMMARY="Correcting and polishing your text."
+APP_SUMMARY=""
 # Example input that shows user how to use the app.
-EXAMPLE_INPUT="Hello there, im Nooc, it's glad to see you."
+EXAMPLE_INPUT=""
 
 # Server side
 
 # Required, the API key got from OpenAI (https://platform.openai.com/account/api-keys)
-OPENAI_API_KEY="sk-XXXXXXXXX"
+OPENAI_API_KEY=""
 # Optional, the agent server of OpenAI API. Use this when the offical OpenAI API server is unreachable.
 OPENAI_API_BASE_URL=""
 # Optional, the system message helps set the behavior of the assistant. (Learn more from https://platform.openai.com/docs/guides/chat/introduction)
-SYSTEM_MESSAGE="You are a language polisher, corrects and polishes the given content."
+SYSTEM_MESSAGE=""
 # Optional, the message template to wrap the user inputs, the `{{input}}` string in the template will be replaced by user inputs.
-MESSAGE_TEMPLATE="Correct and polish the following content: "
+MESSAGE_TEMPLATE=""
 ```
 
 You can edit the example file located in the root directory of this project named `.env.example`. Once you have made the necessary changes, you can then copy and paste the entire content of the file into the "Environment Variables" input field on the Vercel console.
