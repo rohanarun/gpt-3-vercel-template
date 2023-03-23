@@ -93,8 +93,8 @@
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify(data)
           })
-        const json = await response.json();
-        result.textContent = json.choices[0].text;
+        const text = await response.text();
+        result.textContent = text;
         resultSection.style.display = "block";
       }
     </script>
