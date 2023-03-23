@@ -12,4 +12,13 @@ module.exports = {
     keepAlive: true,
   },
   reactStrictMode: true,
+  
+  rewrites: async () => {
+    return [
+      {
+        source: "/test",
+        destination: "/public/test.html",
+      }
+    ]
+}
 };
