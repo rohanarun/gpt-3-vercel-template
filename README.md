@@ -42,7 +42,10 @@ You can edit the example file located in the root directory of this project name
 ### Generating custom widgets
 1) Use this phrase with Project Atlas in Cheat Layer to generate custom front end UIs: 
 
-```generate a website with a professional looking form that contains 1 input. It submits an object {input: value} to /api/request. The result is available in data as a string. Print the result in a div. Do not use sendAjax and use fetch. Make it look fancy.```
+```
+generate a website with a professional looking form that contains 1 input. It submits an object {input: value} to /api/request. The result is available in the data variable as a text string. Print the result in a div. Do not use sendAjax and use fetch. Make it look fancy.
+
+```
 2) Create a new .html file in the /public directory, like test.html. Open the HTML file Cheat Layer downloads and copy/paste the HTML from that. 
 3) Click commit changes, and wait on vercel dashboard for the auto-deploy to test the new version!
 
