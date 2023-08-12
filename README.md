@@ -3,7 +3,7 @@ Check this youtube video for the full tutorial and demo: https://www.youtube.com
 
 ## Get Started
 
-1) Click use this template, and create a repository.
+1) Click use this template, and create a repository
 2) Setup a new project in vercel, and import this repo.
 3) Set up environment variables by copying the variables below and editing them.
 4) Deploy your application and give Vercel a moment to complete the deployment process.
